@@ -133,5 +133,6 @@ public class Umpire {
 			// umpire.printScores();
 
 		}
+		System.out.println("Bye");
 	}
 }
